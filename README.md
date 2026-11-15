@@ -35,20 +35,21 @@ Building high-throughput microservices, pragmatic fullstack products, and local-
   <tr>
     <td width="52%" valign="top">
       <h3>03 / Flagship Open Source</h3>
-      <a href="https://github.com/hyperxnez/stream-deck-ai-usage-monitor">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hyperxnez&repo=stream-deck-ai-usage-monitor&theme=transparent&hide_border=true" width="100%" alt="stream-deck-ai-usage-monitor" />
-      </a>
-      <p><sub>Local-first <b>.NET 10</b> Windows collector (Named Pipe IPC + NTFS ACL) &amp; <b>TypeScript</b> Stream Deck plugin monitoring Claude Code, Codex &amp; Antigravity quotas with zero token burn.</sub></p>
+      <p>
+        <a href="https://github.com/hyperxnez/stream-deck-ai-usage-monitor"><b>stream-deck-ai-usage-monitor</b></a><br/>
+        <sub>Elgato Stream Deck plugin &amp; Windows x64 collector monitoring remaining 5H/7D AI usage quotas and reset timers for <b>Claude Code</b>, <b>OpenAI Codex</b>, and <b>Antigravity</b> — zero prompts, zero token burn.</sub>
+      </p>
+      <p>
+        <code>C#</code> <code>.NET 10</code> <code>TypeScript</code> <code>Named Pipe IPC</code> <code>NTFS ACL</code>
+      </p>
     </td>
     <td width="48%" valign="top">
-      <h3>04 / GitHub Snapshot</h3>
-      <a href="https://github.com/hyperxnez">
-        <img src="https://github-readme-stats.vercel.app/api?username=hyperxnez&show_icons=true&count_private=true&theme=transparent&hide_border=true" width="100%" alt="hyperxnez GitHub stats" />
-      </a>
-      <br/>
-      <a href="https://github.com/hyperxnez">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyperxnez&layout=compact&theme=transparent&hide_border=true" width="100%" alt="Top Languages" />
-      </a>
+      <h3>04 / Systems &amp; AI Highlights</h3>
+      <ul>
+        <li><b>Distributed .NET &amp; Migrations:</b> Enterprise <code>.NET 4.x → 8+</code> upgrades, <b>Kafka</b>, <b>RabbitMQ</b>, <b>Redis</b>, <b>HAProxy / Nomad / Consul</b>.</li>
+        <li><b>Multi-Domain SaaS:</b> <b>NestJS</b> + <b>Prisma</b> + <b>PostgreSQL</b> + <b>Next.js</b> platforms.</li>
+        <li><b>AI Agent Pipelines:</b> Local-first workflows with Claude/Gemini/Ollama &amp; background workers.</li>
+      </ul>
     </td>
   </tr>
 </table>
